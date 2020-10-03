@@ -3,7 +3,7 @@ A simple To-Do list application using Django and Python
 
 ## Current Features and UI
 
-<img src="images/Image1.PNG" weight="300" height="400">    <img src="images/Image3.PNG" weight="300" height="400">
+<img src="images/Image1.PNG" weight="350" height="400">    <img src="images/Image3.PNG" weight="350" height="400">
 
 
 ## Local Development
